@@ -1,5 +1,5 @@
 # Java
-<img align="right" width="450" height="450" src="https://i.hizliresim.com/22itjzf.png">
+<img align="right" width="350" height="350" src="https://i.hizliresim.com/22itjzf.png">
 <strong>Java Basics</strong><br>
 <strong>Arrays</strong><br>
 <strong>Introduction to OOP</strong><br>
