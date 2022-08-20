@@ -7,7 +7,7 @@
 <strong>Package & Classpath</strong><br>
 <strong>Encapsulation</strong><br>
 <strong>Inheritance</strong><br>
-<strong>Enum, API</strong><br>
+<strong>Enum, Java API</strong><br>
 <strong>Polymorphism</strong><br>
 <strong>Abstract Classes</strong><br>
 <strong>Interfaces</strong><br>
