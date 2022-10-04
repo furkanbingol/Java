@@ -16,5 +16,3 @@
 <strong>Functional Programming with Java</strong><br>
 <strong>Collections</strong><br>
 <strong>Multithreading</strong><br>
-<strong>Clean Code</strong><br>
-<strong>Design Patterns</strong><br>
