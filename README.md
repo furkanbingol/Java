@@ -13,6 +13,4 @@
 <strong>Interfaces</strong><br>
 <strong>Nested Classes</strong><br>
 <strong>Exception Handling</strong><br>
-<strong>Functional Programming with Java</strong><br>
 <strong>Collections</strong><br>
-<strong>Multithreading</strong><br>
